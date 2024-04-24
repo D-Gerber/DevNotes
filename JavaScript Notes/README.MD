@@ -1,7 +1,7 @@
 # JavaScript-Notes
- * JavaScript Notes (Code) from tutorials
+ - JavaScript Notes (Code) from tutorials
 
-# 04-10--2024
+# 04-10--2024 (Video Tutorial with Mosh)
 
 - Use (https://www.youtube.com/watch?v=W6NZfCO5SIk) this link for reference when notes dont make sense
 - Started watching Mosh tutorial video.
@@ -12,7 +12,7 @@
 - Made notes on Array's
 - Made notes on Functions
 
-## End of the tutorial (https://www.youtube.com/watch?v=W6NZfCO5SIk) 04-10-2024
+## 04-10-2024 End of the tutorial (https://www.youtube.com/watch?v=W6NZfCO5SIk) 
 
 # 04-24-2024
 
