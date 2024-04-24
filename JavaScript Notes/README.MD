@@ -17,3 +17,9 @@
 # 04-24-2024
 
 * Addedd some important notes on JavaScript that I made on a FCC tutorial.
+* Notes include:
+    - if/else statements
+    - Loops
+    - Strings
+
+## End of (Learn Introductory JavaScript by Building a Pyramid Generator) FCC Tutorial.
