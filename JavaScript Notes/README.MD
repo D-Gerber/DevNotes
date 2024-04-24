@@ -1,5 +1,5 @@
 # JavaScript-Notes
- - JavaScript Notes (Code) from tutorials
+ * JavaScript Notes (Code) from tutorials
 
 # 04-10--2024
 
