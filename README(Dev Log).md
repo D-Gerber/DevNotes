@@ -16,3 +16,4 @@
 
 * Started a new course on FCC 
 * Learn Form Validation by Building a Calorie Counter here I'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+* Learned about innerHTML and how to use it in JavaScript.

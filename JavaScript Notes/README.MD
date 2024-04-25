@@ -26,4 +26,9 @@
 
 # 04-25-2024
 
-* Started the course Learn Form Validation by Building a Calorie Counter here I'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+* Started the course **Learn Form Validation by Building a Calorie Counter** here I'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+* Shorthand Notes:
+    - Learned about innerHTML
+    - Regex (Regular Expressions)
+    - .match() method
+    - Template Literals **${}**
