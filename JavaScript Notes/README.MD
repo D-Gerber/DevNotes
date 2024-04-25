@@ -23,3 +23,7 @@
     - Strings
 
 ## End of (Learn Introductory JavaScript by Building a Pyramid Generator) FCC Tutorial.
+
+# 04-25-2024
+
+* Started the course Learn Form Validation by Building a Calorie Counter here I'll learn basic regular expressions, template literals, the addEventListener() method, and more.
