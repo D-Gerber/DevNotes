@@ -40,3 +40,4 @@
 * Started the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..
 * Shorthand Notes:
     - To create empty Array **const/let allSongs = [];**
+    - To create a property in an object/array use : after the property name example **currentSong: null,**
