@@ -41,3 +41,6 @@
 * Shorthand Notes:
     - To create empty Array **const/let allSongs = [];**
     - To create a property in an object/array use : after the property name example **currentSong: null,**
+    - Arrow functions, arrow functions is an anonymous function expression and a shorter way to write functions **() => {}**
+    - Named Arrow function example **const exampleFunction = () => {// code goes here}**
+
