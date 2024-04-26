@@ -44,3 +44,7 @@
     - Arrow functions, arrow functions is an anonymous function expression and a shorter way to write functions **() => {}**
     - Named Arrow function example **const exampleFunction = () => {// code goes here}**
     - To interpolate something means put **${}** that around your text
+    - To call something just type the name followed by () brackets for example. renderSongs()
+    - Strictly equal means using 3 x = in code to check someting **===**
+    - Strictly NOT equal **!==**
+    - This is known as OR/IF **||**
