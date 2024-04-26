@@ -32,3 +32,9 @@
     - Regex (Regular Expressions)
     - .match() method
     - Template Literals **${}**
+
+##  End of (Learn Form Validation by Building a Calorie Counter) FCC Tutorial
+
+# 04-26-2024
+
+* Started the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..

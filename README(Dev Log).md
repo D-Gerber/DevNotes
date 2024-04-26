@@ -21,4 +21,4 @@
 # 04-26-2024
 
 * Started a new course on FCC 
-* Learn Basic String and Array Methods by Building a Music Player here I'll learn basic regular expressions, template literals, the addEventListener() method, and more.
+* Learn Basic String and Array Methods by Building a Music Player here I'll learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.
