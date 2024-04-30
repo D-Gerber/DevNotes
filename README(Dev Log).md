@@ -28,3 +28,4 @@
 # 04-30-2024
 
 * Continuing the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..
+* Finished the course.
