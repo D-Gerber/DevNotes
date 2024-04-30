@@ -22,3 +22,9 @@
 
 * Started a new course on FCC 
 * Learn Basic String and Array Methods by Building a Music Player here I'll learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications.
+* Stopped the course halfway to take a break and continue on a later stage.
+* Watched a couple of video's on Java.
+
+# 04-30-2024
+
+* Continuing the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..

@@ -48,3 +48,9 @@
     - Strictly equal means using 3 x = in code to check someting **===**
     - Strictly NOT equal **!==**
     - This is known as OR/IF **||**
+
+    # 04-30--2024
+
+    * Continued the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..
+    * Shorthand Notes:
+        - 
