@@ -53,4 +53,8 @@
 
     * Continued the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..
     * Shorthand Notes:
-        - 
+        - The **createTextNode()** method is used to create a text node.
+        - **appendChild()** lets you add a node or an element as the child of another element.
+        - **DOM** DOM stands for Document Object Model
+        - The **forEach** method is used to loop through an array and perform a function on each element of the array.
+        - The **indexOf()** array method returns the first index at which a given element can be found in the array, or -1 if the element is not present.
