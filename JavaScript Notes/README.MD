@@ -65,3 +65,5 @@
 * Shorthand Notes:
     - ` ` is used to create an empty template literals. For example **const formattedDate = ``**
     - To add embedded expression in a template literal use **${ }** inside your two backticks known as an empty template literal.
+    - A switch statement is used to compare an expression against multiple possible values and execute different code blocks based on the match. It's commonly used for branching logic. 
+    For example: **switch (dateOptionsSelectElement.value) { };* The "EXPRESSION" goes in between the brackets. 
