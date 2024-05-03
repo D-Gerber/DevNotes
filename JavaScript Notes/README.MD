@@ -61,6 +61,6 @@
 
 # 05-03-2024
 
-* Started new course **Learn the Date Object by Buildding a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
+* Started new course **Learn the Date Object by Building a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
 * Shorthand Notes:
     - 
