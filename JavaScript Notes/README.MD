@@ -63,4 +63,4 @@
 
 * Started new course **Learn the Date Object by Building a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
 * Shorthand Notes:
-    - 
+    - ` ` is used to create an empty template literals. For example **const formattedDate = ``**
