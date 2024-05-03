@@ -70,3 +70,7 @@
     - The *split()* method is used to divide a string into substrings based on a specified separator. It then returns these substrings as elements of an array.
     For example: **const exampleSentence = "selur pmaCedoCeerf".split();**
     To add an empty string as a separator to the split method use "" in the brackets. For example: **const exampleSentence = "selur pmaCedoCeerf".split("");**
+    - Chain the reverse method to your split method.
+    For example: **const exampleSentence = "selur pmaCedoCeerf".split("").reverse();**
+    - To chain methods just use fullstop then the methods for example: **const exampleSentence = "selur pmaCedoCeerf".split("").reverse().join("");**
+    - The *break* statement will tell the JavaScript interpreter to stop executing statements. Without adding a break statement at the end of each case block, the program will execute the code for all matching cases. Just simply type **break;** at the end of your code.
