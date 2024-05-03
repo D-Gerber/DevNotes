@@ -58,3 +58,9 @@
         - **DOM** DOM stands for Document Object Model
         - The **forEach** method is used to loop through an array and perform a function on each element of the array.
         - The **indexOf()** array method returns the first index at which a given element can be found in the array, or -1 if the element is not present.
+
+# 05-03-2024
+
+* Started new course **Learn the Date Object by Buildding a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
+* Shorthand Notes:
+    - 

@@ -29,3 +29,7 @@
 
 * Continuing the course **Learn Basic String and Array Methods by Building a Music Player** learn some essential string and array methods like the find(), forEach(), map(), and join(). These methods are crucial for developing dynamic web applications..
 * Finished the course.
+
+# 05-03-2024
+
+* Started new course **Learn the Date Object by Buildding a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
