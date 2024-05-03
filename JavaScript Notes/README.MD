@@ -67,3 +67,6 @@
     - To add embedded expression in a template literal use **${ }** inside your two backticks known as an empty template literal.
     - A switch statement is used to compare an expression against multiple possible values and execute different code blocks based on the match. It's commonly used for branching logic. 
     For example: **switch (dateOptionsSelectElement.value) { };* The "EXPRESSION" goes in between the brackets. 
+    - The *split()* method is used to divide a string into substrings based on a specified separator. It then returns these substrings as elements of an array.
+    For example: **const exampleSentence = "selur pmaCedoCeerf".split();**
+    To add an empty string as a separator to the split method use "" in the brackets. For example: **const exampleSentence = "selur pmaCedoCeerf".split("");**
