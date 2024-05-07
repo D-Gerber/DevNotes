@@ -74,3 +74,9 @@
     For example: **const exampleSentence = "selur pmaCedoCeerf".split("").reverse();**
     - To chain methods just use fullstop then the methods for example: **const exampleSentence = "selur pmaCedoCeerf".split("").reverse().join("");**
     - The *break* statement will tell the JavaScript interpreter to stop executing statements. Without adding a break statement at the end of each case block, the program will execute the code for all matching cases. Just simply type **break;** at the end of your code.
+
+# 05-07-2024
+
+* Started new course **Learn Modern JavaScript Methods by Building Football Team Cards** This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
+* Shorthand Notes:
+    - 

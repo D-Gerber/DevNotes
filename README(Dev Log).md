@@ -33,3 +33,7 @@
 # 05-03-2024
 
 * Started new course **Learn the Date Object by Building a Date Formatter** this project will cover concepts such as the **getDate()**, **getMonth()**, and **getFullYear()** methods.
+
+# 05-07-2024
+
+* Started new course **Learn Modern JavaScript Methods by Building Football Team Cards** This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
