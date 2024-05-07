@@ -85,3 +85,4 @@
     - Embedded expression **${ }**
     - Empty string **" "**
     - Switch statments: **switch (statementGoesHere) {}**
+    - To add a clause to something ** case "nickname":**
