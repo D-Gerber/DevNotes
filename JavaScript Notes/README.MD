@@ -81,4 +81,4 @@
 * Shorthand Notes:
     - To access an element in HTML with Java use the getElementById for example **const teamName = document.getElementById("team")** and you must always use DOCUMENT before the getElementById to access from the HTML DOCUMENT.
     - When adding properties to const you'll add them like this for exampple **team: "Argentina"** but when you add property with numbers for example **year: 1992** you dont use quotations arounf the numbers only around the words
-    - 
+    - The object destructuring syntax allows you to unpack values from arrays and objects for example: **const { sport, team, year, players } = myFavoriteFootballTeam;**
