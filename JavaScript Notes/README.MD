@@ -79,4 +79,5 @@
 
 * Started new course **Learn Modern JavaScript Methods by Building Football Team Cards** This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
 * Shorthand Notes:
+    - To access an element in HTML with Java use the getElementById for example **const teamName = document.getElementById("team")** and you must always use DOCUMENT before the getElementById to access from the HTML DOCUMENT.
     - 
