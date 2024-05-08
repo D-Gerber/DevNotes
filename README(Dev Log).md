@@ -37,3 +37,7 @@
 # 05-07-2024
 
 * Started new course **Learn Modern JavaScript Methods by Building Football Team Cards** This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
+
+# 05-08-2024
+
+* Started new course **Learn localStorage by Building a Todo App** In this project i'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
