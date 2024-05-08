@@ -86,3 +86,9 @@
     - Empty string **" "**
     - Switch statments: **switch (statementGoesHere) {}**
     - To add a clause to something ** case "nickname":**
+
+# 05-08-2024
+
+* Started new course **Learn localStorage by Building a Todo App** In this project i'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
+* Shorthand Notes:
+    - 
