@@ -91,4 +91,6 @@
 
 * Started new course **Learn localStorage by Building a Todo App** In this project i'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
 * Shorthand Notes:
-    - 
+    - The **toggle** method will add the class if it is not present on the element, and remove the class if it is present on the element. 
+    For example: **openTaskFormBtn.addEventListener("click", () => taskForm.classList.toggle("hidden"));**
+    - The HTML dialog element has a showModal() method that can be used to display a modal dialog box on a web page. For Example **dialogElement.showModal();**
