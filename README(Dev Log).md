@@ -42,3 +42,7 @@
 
 * Started new course **Learn localStorage by Building a Todo App** In this project i'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements.
 * Stopped the course for now to redo the first 5 lessons to understandd them better and then be able to do the certification lesson.
+
+# 05-09-2024
+
+* Continuied to course Todo App. Feeling like I'm all over the place and overwhelmed with Java right now
