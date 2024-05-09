@@ -80,7 +80,7 @@
 * Started new course **Learn Modern JavaScript Methods by Building Football Team Cards** This project will cover concepts like switch statements, default parameters, Object.freeze(), the map() method, and more.
 * Shorthand Notes:
     - To access an element in HTML with Java use the getElementById for example **const teamName = document.getElementById("team")** and you must always use DOCUMENT before the getElementById to access from the HTML DOCUMENT.
-    - When adding properties to const you'll add them like this for exampple **team: "Argentina"** but when you add property with numbers for example **year: 1992** you dont use quotations arounf the numbers only around the words
+    - When adding properties to const you'll add them like this for exampple **team: "Argentina"** but when you add property with numbers for example **year: 1992** you dont use quotations around the numbers only around the words
     - The object destructuring syntax allows you to unpack values from arrays and objects for example: **const { sport, team, year, players } = myFavoriteFootballTeam;**
     - Embedded expression **${ }**
     - Empty string **" "**
@@ -94,3 +94,5 @@
     - The **toggle** method will add the class if it is not present on the element, and remove the class if it is present on the element. 
     For example: **openTaskFormBtn.addEventListener("click", () => taskForm.classList.toggle("hidden"));**
     - The HTML dialog element has a showModal() method that can be used to display a modal dialog box on a web page. For Example **dialogElement.showModal();**
+    - The **findIndex()** array method finds and returns the index of the first element in an array that meets the criteria specified by a provided testing function. If no such element is found, the method returns -1.
+    For example
