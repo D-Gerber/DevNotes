@@ -96,3 +96,7 @@
     - The HTML dialog element has a showModal() method that can be used to display a modal dialog box on a web page. For Example **dialogElement.showModal();**
     - The **findIndex()** array method finds and returns the index of the first element in an array that meets the criteria specified by a provided testing function. If no such element is found, the method returns -1.
     For example
+
+# 06-12-2024
+
+* Finished the Javascript courses on FCC and got my certificate for them. I am now moving onto the Legacy course to finish that and then i'll go and do the React courses on FCC.
