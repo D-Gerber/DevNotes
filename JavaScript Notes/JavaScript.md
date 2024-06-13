@@ -88,3 +88,6 @@
                2 * 2 = 4
                5 - 4 = 1
     - Usage: In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2. Even numbers have a        remainder of 0, while odd numbers a remainder of 1.
+    - Example: 17 % 2 = 1
+               48 % 2 = 0
+    - Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
