@@ -74,4 +74,6 @@
 -- You can easily increment or add one to a variable with the -- operator.
     - *i--;* is the equivalent of *i = i - 1;* 
     - Note: The entire line becomes i--;, eliminating the need for the equal sign.
--- 
+-- We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.
+    - Note: when you compute numbers, they are computed with finite precision. Operations using floating points may lead to different results than the desired outcome.
+-- In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
