@@ -67,3 +67,4 @@
 -- JavaScript uses the + symbol as an addition operator when placed between two numbers.
 -- JavaScript uses the - symbol for subtraction.
 -- JavaScript uses the * symbol for multiplication of two numbers.
+-- JavaScript uses the / symbol for division.
