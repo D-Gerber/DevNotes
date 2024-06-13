@@ -61,3 +61,9 @@
 -- You can add a variable in between a parentheses () we refer to this variable as a parameter. Add the + to concatenate two strings.
 -- A function can have multipale parameters.
 
+## Maths in Javascript
+
+-- Number is a data type in JavaScript which represents numeric data.
+-- JavaScript uses the + symbol as an addition operator when placed between two numbers.
+-- JavaScript uses the - symbol for subtraction.
+-- JavaScript uses the * symbol for multiplication of two numbers.
