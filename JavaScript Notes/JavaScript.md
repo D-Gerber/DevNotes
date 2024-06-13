@@ -77,3 +77,14 @@
 -- We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.
     - Note: when you compute numbers, they are computed with finite precision. Operations using floating points may lead to different results than the desired outcome.
 -- In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.
+    - const product = 2.0 * 2.5;
+    - That equals 5.0
+-- You can also divide one decimal by another.
+    - const quotient = 4.4 / 2.0;
+    - That equals to 2.2
+-- The remainder operator % gives the remainder of the division of two numbers.
+    - Example: 5 % 2 = 1
+               5 / 2 = 2 remainder 1
+               2 * 2 = 4
+               5 - 4 = 1
+    - Usage: In mathematics, a number can be checked to be even or odd by checking the remainder of the division of the number by 2. Even numbers have a        remainder of 0, while odd numbers a remainder of 1.
