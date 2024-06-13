@@ -46,3 +46,7 @@
 # 05-09-2024
 
 * Continuied to course Todo App. Feeling like I'm all over the place and overwhelmed with Java right now
+
+# 06-12-2024
+
+* Finished the Javascript courses on FCC and got my certificate for them. I am now moving onto the Legacy course to finish that and then i'll go and do the React courses on FCC.
